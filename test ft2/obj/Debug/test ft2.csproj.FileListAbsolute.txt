@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\bin\Debug\test ft2.exe.config
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\bin\Debug\test ft2.exe
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\bin\Debug\test ft2.pdb
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\obj\Debug\test ft2.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\obj\Debug\test ft2.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\obj\Debug\test ft2.exe
+C:\Users\WeCanCodeIT\source\repos\test ft2\test ft2\obj\Debug\test ft2.pdb
